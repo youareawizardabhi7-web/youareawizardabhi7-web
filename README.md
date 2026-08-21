@@ -1,32 +1,288 @@
-<h1 align="center">Hello, I'm Abhigyan Paswan</h1>
-<h3 align="center">A Full Stack and AI Enthusiast from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youareawizardabhi7-web&label=Profile%20views&color=0e75b6&style=flat" alt="youareawizardabhi7-web" /> </p>
+# Hey, I'm Abhigyan Paswan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youareawizardabhi7-web" alt="youareawizardabhi7-web" /></a> </p>
+### Full-Stack Developer • AI Enthusiast • CSE Student
 
-<p align="left"> <a href="https://twitter.com/aobphtimus" target="blank"><img src="https://img.shields.io/twitter/follow/aobphtimus?logo=twitter&style=for-the-badge" alt="aobphtimus" /></a> </p>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Javascript C++ and Node.js**
-
-- 📫 How to reach me **youareawizardabhi7@gmail.com**
-
-- ⚡ Fun fact **everything is funny about me :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aobphtimus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aobphtimus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhigyan-paswan-8595663bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyan-paswan-8595663bb" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/youareawizardabhi7-web">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/abhigyan-paswan-8595663bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youareawizardabhi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=youareawizardabhi7-web&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youareawizardabhi7-web&show_icons=true&locale=en&layout=compact" alt="youareawizardabhi7-web" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&locale=en" alt="youareawizardabhi7-web" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youareawizardabhi7-web&" alt="youareawizardabhi7-web" /></p>
+## About Me
+
+I'm a Computer Science student passionate about building **full-stack applications, AI-powered products, and developer-focused tools**.
+
+I enjoy taking an idea from concept → architecture → code → deployment.
+
+* Currently learning **Node.js & backend development**
+* Exploring **AI integration and AI-powered applications**
+* Building projects with **JavaScript, React, Node.js and Python**
+* Interested in **system design, APIs, databases and cloud technologies**
+* Always experimenting with new technologies and ideas
+
+> **Build. Break. Learn. Repeat.**
+
+---
+
+## Current Focus
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Backend Development        ████████████████████░░  85%    │
+│   Full-Stack Development     ██████████████████░░░░  75%    │
+│   AI / LLM Integration       ████████████████░░░░░░  65%    │
+│   System Design              ████████████░░░░░░░░░░  50%    │
+│   Cloud & DevOps              ██████████░░░░░░░░░░░░  45%    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,go" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,dynamodb,mysql" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,terraform,git,github,githubactions" />
+</p>
+
+### AI & Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youareawizardabhi7-web&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+</a>
+
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img src="https://streak-stats.demolab.com/?user=youareawizardabhi7-web&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
+</a>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youareawizardabhi7-web&hide_border=true&area=true&radius=8&custom_title=Abhigyan's%20Contribution%20Graph" alt="Contribution Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youareawizardabhi7-web&theme=github" width="95%" alt="GitHub Profile Details"/>
+
+</a>
+
+</div>
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youareawizardabhi7-web&repo=Aetheris_1&hide_border=true&theme=transparent" />
+
+</a>
+
+<a href="https://github.com/youareawizardabhi7-web">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youareawizardabhi7-web&repo=url-shortener&hide_border=true&theme=transparent" />
+
+</a>
+
+</div>
+
+### Aetheris
+
+**AI-Powered Business & Competitive Intelligence**
+
+An AI-driven platform designed to analyze competitors, gather intelligence and generate strategic insights.
+
+**Stack:** React • Vite • Tailwind CSS • FastAPI • PostgreSQL • AI/LLMs
+
+---
+
+### URL Shortener
+
+**Full-Stack URL Shortening & Analytics Platform**
+
+A backend-focused project exploring REST APIs, MongoDB, Express.js, URL generation and analytics.
+
+**Stack:** Node.js • Express.js • MongoDB • Mongoose • EJS
+
+---
+
+# What I'm Building
+
+```text
+                 ┌────────────────────────┐
+                 │        IDEAS           │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ┌────────────────────────┐
+                 │     ARCHITECTURE       │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ┌────────────────────────┐
+                 │         CODE           │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ┌────────────────────────┐
+                 │      AI + SYSTEMS      │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ┌────────────────────────┐
+                 │        DEPLOY          │
+                 └────────────────────────┘
+```
+
+I'm particularly interested in building:
+
+* AI-powered SaaS products
+* Developer tools
+* Full-stack web applications
+* Intelligent automation systems
+* APIs and backend infrastructure
+* Scalable distributed systems
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=youareawizardabhi7-web&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+
+</a>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhigyan-paswan-8595663bb">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Paswan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:youareawizardabhi7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-youareawizardabhi7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Thanks for visiting!
+
+**If you find something interesting here, feel free to explore my repositories.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" width="100%"/>
+
+</div>
+
 
