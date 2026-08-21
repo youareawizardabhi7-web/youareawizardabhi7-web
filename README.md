@@ -28,13 +28,14 @@
 
 I'm a Computer Science student from India interested in **full-stack development and AI**.
 
-I'm currently learning Data Structure and Algorithms ,**Node.js** and exploring backend development while building projects with JavaScript, React, Express.js, MongoDB, and Python.
+Currently, I'm learning **Data Structures & Algorithms** and **Node.js**, while exploring backend development and building projects with JavaScript, React, Express.js, MongoDB, and Python.
 
+* Currently learning **Data Structures & Algorithms**
 * Currently learning **Node.js**
 * Exploring **backend development**
 * Building with **JavaScript, React, Node.js and Python**
 * Interested in **AI and software development**
-* Learning by building and experimenting with new technologies
+* Learning by building projects and experimenting with new technologies
 
 ---
 
@@ -70,21 +71,7 @@ I'm currently learning Data Structure and Algorithms ,**Node.js** and exploring 
   <img src="https://skillicons.dev/icons?i=git,nginx,postman,arduino,opencv" alt="Git, NGINX, Postman, Arduino and OpenCV">
 </p>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/youareawizardabhi7-web">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/youareawizardabhi7-web">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youareawizardabhi7-web&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages">
-</a>
-
-</div>
+#
 
 ---
 
@@ -122,46 +109,13 @@ I'm currently learning Data Structure and Algorithms ,**Node.js** and exploring 
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=youareawizardabhi7-web&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies">
-</a>
-
-</div>
-
----
-
 # Featured Projects
 
-<div align="center">
+### Mission Nexus Dashboard
 
-<a href="https://github.com/youareawizardabhi7-web/mission-nexus-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youareawizardabhi7-web&repo=mission-nexus-dashboard&hide_border=true&theme=transparent" alt="Mission Nexus Dashboard">
-</a>
+[View Repository](https://github.com/youareawizardabhi7-web/mission-nexus-dashboard)
 
-</div>
-
-### Mission Nexus
-
-**The Operating System for Space Exploration**
-
-A futuristic **Space Mission Control Dashboard** built for a frontend hackathon, designed to simulate a real-time command center for deep-space exploration.
-
-The project features a space-themed interface with mission monitoring, telemetry, fleet and drone monitoring, glassmorphism UI, responsive layouts, and smooth animations.
-
-**Tech Stack:** React • Vite • Tailwind CSS • Framer Motion • JavaScript
-
-<div align="center">
-
-<a href="https://github.com/youareawizardabhi7-web/mission-nexus-dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mission Nexus">
-</a>
-
-</div>
-
+---
 
 # Connect With Me
 
