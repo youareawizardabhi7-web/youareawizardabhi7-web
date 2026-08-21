@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhigyan Paswan</h1>
+<h1 align="center">Hello, I'm Abhigyan Paswan</h1>
 <h3 align="center">A Full Stack and AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youareawizardabhi7-web&label=Profile%20views&color=0e75b6&style=flat" alt="youareawizardabhi7-web" /> </p>
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aobphtimus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aobphtimus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhigyanpaswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyanpaswan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhigyan-paswan-8595663bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyan-paswan-8595663bb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&locale=en" alt="youareawizardabhi7-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youareawizardabhi7-web&" alt="youareawizardabhi7-web" /></p>
+
