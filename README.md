@@ -1,23 +1,23 @@
 <div align="center">
 
-# Hey, I'm Abhigyan Paswan
+# Hello, I'm Abhigyan Paswan
 
-### Full-Stack Developer & AI Enthusiast from India
+### Full Stack Developer & AI Enthusiast from India
 
 <p>
   <a href="https://github.com/youareawizardabhi7-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/abhigyan-paswan-8595663bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youareawizardabhi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://twitter.com/aobphtimus">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=youareawizardabhi7-web&label=Profile%20Views&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=youareawizardabhi7-web&label=Profile%20Views&style=flat" alt="Profile Views">
 </p>
 
 </div>
@@ -28,13 +28,13 @@
 
 I'm a Computer Science student from India interested in **full-stack development and AI**.
 
-Currently, I'm focusing on strengthening my backend development skills and building projects using JavaScript, Node.js, Express.js, MongoDB, React, and Python.
+I'm currently learning Data Structure and Algorithms ,**Node.js** and exploring backend development while building projects with JavaScript, React, Express.js, MongoDB, and Python.
 
 * Currently learning **Node.js**
 * Exploring **backend development**
 * Building with **JavaScript, React, Node.js and Python**
 * Interested in **AI and software development**
-* Learning by building projects and experimenting with new technologies
+* Learning by building and experimenting with new technologies
 
 ---
 
@@ -43,31 +43,31 @@ Currently, I'm focusing on strengthening my backend development skills and build
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" alt="C, C++, JavaScript and Python">
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React and Tailwind CSS">
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js">
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,nginx,postman,arduino,opencv" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,nginx,postman,arduino,opencv" alt="Git, NGINX, Postman, Arduino and OpenCV">
 </p>
 
 ---
@@ -77,11 +77,11 @@ Currently, I'm focusing on strengthening my backend development skills and build
 <div align="center">
 
 <a href="https://github.com/youareawizardabhi7-web">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats">
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=youareawizardabhi7-web&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youareawizardabhi7-web&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
-
+<a href="https://github.com/youareawizardabhi7-web">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youareawizardabhi7-web&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages">
 </a>
 
 </div>
@@ -92,7 +92,9 @@ Currently, I'm focusing on strengthening my backend development skills and build
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=youareawizardabhi7-web&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/youareawizardabhi7-web">
+  <img src="https://streak-stats.demolab.com/?user=youareawizardabhi7-web&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
+</a>
 
 </div>
 
@@ -102,7 +104,9 @@ Currently, I'm focusing on strengthening my backend development skills and build
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youareawizardabhi7-web&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
+<a href="https://github.com/youareawizardabhi7-web">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youareawizardabhi7-web&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph">
+</a>
 
 </div>
 
@@ -112,7 +116,7 @@ Currently, I'm focusing on strengthening my backend development skills and build
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youareawizardabhi7-web&theme=github" width="95%" alt="GitHub Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youareawizardabhi7-web&theme=github" width="95%" alt="GitHub Profile Summary">
 
 </div>
 
@@ -122,7 +126,9 @@ Currently, I'm focusing on strengthening my backend development skills and build
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=youareawizardabhi7-web&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=youareawizardabhi7-web&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies">
+</a>
 
 </div>
 
@@ -133,12 +139,10 @@ Currently, I'm focusing on strengthening my backend development skills and build
 <div align="center">
 
 <a href="https://github.com/youareawizardabhi7-web?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories">
 </a>
 
 </div>
-
-> More projects will be featured here as they are added.
 
 ---
 
@@ -147,11 +151,15 @@ Currently, I'm focusing on strengthening my backend development skills and build
 <div align="center">
 
 <a href="https://linkedin.com/in/abhigyan-paswan-8595663bb">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Paswan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Paswan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:youareawizardabhi7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://twitter.com/aobphtimus">
+  <img src="https://img.shields.io/badge/Twitter-aobphtimus-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+</a>
+
+<a href="mailto:[youareawizardabhi7@gmail.com](mailto:youareawizardabhi7@gmail.com)">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
