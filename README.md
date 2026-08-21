@@ -138,13 +138,30 @@ I'm currently learning Data Structure and Algorithms ,**Node.js** and exploring 
 
 <div align="center">
 
-<a href="https://github.com/youareawizardabhi7-web?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories">
+<a href="https://github.com/youareawizardabhi7-web/mission-nexus-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youareawizardabhi7-web&repo=mission-nexus-dashboard&hide_border=true&theme=transparent" alt="Mission Nexus Dashboard">
 </a>
 
 </div>
 
----
+### Mission Nexus
+
+**The Operating System for Space Exploration**
+
+A futuristic **Space Mission Control Dashboard** built for a frontend hackathon, designed to simulate a real-time command center for deep-space exploration.
+
+The project features a space-themed interface with mission monitoring, telemetry, fleet and drone monitoring, glassmorphism UI, responsive layouts, and smooth animations.
+
+**Tech Stack:** React • Vite • Tailwind CSS • Framer Motion • JavaScript
+
+<div align="center">
+
+<a href="https://github.com/youareawizardabhi7-web/mission-nexus-dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mission Nexus">
+</a>
+
+</div>
+
 
 # Connect With Me
 
